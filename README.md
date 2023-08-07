@@ -5,7 +5,8 @@ python Video_Converter.py
 
 2) It will open the Application like below
 
-![image](https://github.com/SourabhJ7/Video_Conversion_And_Video_Quality_Measure/assets/80623989/137372ef-9998-4064-8a45-ee4e6920e9af)
+![image](https://github.com/SourabhJ7/Video_Conversion_And_Video_Quality_Measure/assets/80623989/2a8f6372-4aaf-4d81-80bd-f29f1e5313b9)
+
 
 
 3) Then we have to browse the file when we press Browse Button and select file as below and select the file
@@ -17,7 +18,8 @@ python Video_Converter.py
 
 5) After conversion it show the bitrate, frame rate and resolution VQ parameters.
 
-![image](https://github.com/SourabhJ7/Video_Conversion_And_Video_Quality_Measure/assets/80623989/d1063b16-0965-44fb-9d5e-af96c81b0314)
+![image](https://github.com/SourabhJ7/Video_Conversion_And_Video_Quality_Measure/assets/80623989/b5d19425-eeca-48f8-82b1-1c070fdfa7fa)
+
 
    
 
