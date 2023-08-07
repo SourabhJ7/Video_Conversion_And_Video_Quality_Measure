@@ -16,5 +16,8 @@ python Video_Converter.py
 4) Then need to press on convert option it will convert in AVI and HLS format
 
 5) After conversion it show the bitrate, frame rate and resolution VQ parameters.
+
+![image](https://github.com/SourabhJ7/Video_Conversion_And_Video_Quality_Measure/assets/80623989/d1063b16-0965-44fb-9d5e-af96c81b0314)
+
    
-![image](https://github.com/SourabhJ7/Video_Conversion_And_Video_Quality_Measure/assets/80623989/95acddbd-0c5e-4b7a-ad48-293c82efcf4d)
+
