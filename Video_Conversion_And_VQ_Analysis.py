@@ -75,6 +75,8 @@ browse_button.pack()
 convert_button = tk.Button(root, text="Convert", command=convert_video)
 convert_button.pack()
 
+resolution_label = tk.Label(root, text="------ Original Video Quality Parameters ------")
+resolution_label.pack()
 
 resolution_label = tk.Label(root, text="Resolution:")
 resolution_label.pack()
@@ -85,6 +87,8 @@ frame_rate_label.pack()
 bit_rate_label = tk.Label(root, text="Bit Rate:")
 bit_rate_label.pack()
 
+converted_avi_resolution_label = tk.Label(root, text="------ AVI Video QUality Parameters ------")
+converted_avi_resolution_label.pack()
 
 converted_avi_resolution_label = tk.Label(root, text="Resolution:")
 converted_avi_resolution_label.pack()
@@ -95,6 +99,8 @@ converted_avi_frame_rate_label.pack()
 converted_avi_bit_rate_label = tk.Label(root, text="Bit Rate:")
 converted_avi_bit_rate_label.pack()
 
+converted_m3u8_resolution_label = tk.Label(root, text="------ HLS Video Quality Parameters ------")
+converted_m3u8_resolution_label.pack()
 
 converted_m3u8_resolution_label = tk.Label(root, text="Resolution:")
 converted_m3u8_resolution_label.pack()
